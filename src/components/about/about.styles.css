@@ -1,0 +1,36 @@
+.about-section{
+	background-color: white;
+}
+
+.about-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.about-image{
+	width: 35%;
+	height: 60vh;
+	border: 1px solid black;
+}
+
+.about-content {
+	width: 50%;
+}
+
+.about-content > p {
+	color: #BDBDBD;
+}
+
+.history {
+	display: flex;
+	justify-content: space-between;
+}
+
+.past-work > h3 {
+	margin-top: 0px;
+}
+
+.past-work > p {
+	color: #AFD4E2;
+	margin-bottom: 0px;
+}

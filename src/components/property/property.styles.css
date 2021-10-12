@@ -1,0 +1,30 @@
+.property-section {
+	background-color: white;
+	margin-top: 10em;
+}
+
+.properties {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5em;
+}
+
+.property {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	width: 30%;
+	height: 350px;
+	border: 1px solid black;
+}
+
+.info {
+	display: flex;
+	width: 80%;
+	border: 1px solid black;
+	height: 40px;
+}
+
+.subheading {
+	color: #BDBDBD;
+}

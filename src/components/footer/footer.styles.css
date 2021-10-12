@@ -1,0 +1,37 @@
+.footer-container {
+	background-color: #1E3240;
+	height: 50vh;
+	color: white;
+}
+
+.links {
+	display: flex;
+	justify-content: flex-end;
+}
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 5rem;
+}
+
+.footer-info {
+	/* width: fit-content; */
+	align-items: center;
+}
+
+.links > div {
+	margin-left: 5rem;
+}
+
+.footer-info > p {
+	color: #BDBDBD;
+}
+
+.links > div > p {
+	color: #BDBDBD;
+}
+
+.copyright {
+	color: #BDBDBD;
+}
